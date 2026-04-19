@@ -7,11 +7,11 @@ This toolkit helps monitor basic system health on a Linux machine.
 
 ## 🚀 Features
 
-- 📀 Disk usage monitoring
-- 🧠 Memory usage monitoring
-- 🔥 View top running processes
-- 🖥️ System information (hostname, uptime, kernel)
-- 🧩 Single master script to run everything
+-  Disk usage monitoring
+-  Memory usage monitoring
+- View top running processes
+-  System information (hostname, uptime, kernel)
+-  Single master script to run everything
 
 ---
 
